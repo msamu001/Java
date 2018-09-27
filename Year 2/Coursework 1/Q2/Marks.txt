@@ -1,8 +1,0 @@
-Name	Mark
-James	67
-Samir	95
-Sofia	90
-John	40
-Tom	32
-Red	53
-Harry	80
